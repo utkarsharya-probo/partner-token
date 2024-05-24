@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.30.1"
+  },
+  "name": "probo-partner-token",
+  "version": "1.0.0",
+  "description": "a npm package to create a authentication token",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarsharya-probo/partner-probo-token.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "utkarsh arya",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/utkarsharya-probo/partner-probo-token/issues"
+  },
+  "homepage": "https://github.com/utkarsharya-probo/partner-probo-token#readme"
+}
